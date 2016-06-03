@@ -2,7 +2,7 @@ import sys
 import csv
 import datetime
 
-#Sample edit
+#Sample edit - ready for pull
 
 yes = set(['yes', 'ye', 'YES', 'YE', 'y', 'Y', 'Yes', 'YEs'])
 no = set(['no', 'NO', 'n', 'nO', 'No'])
