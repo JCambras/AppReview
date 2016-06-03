@@ -4,7 +4,7 @@ import datetime
 
 #Sample edit - ready for pull
 
-yes = set(['yes', 'ye', 'YES', 'YE', 'y', 'Y', 'Yes', 'YEs'])
+yes = set(['yes', 'ye', 'YES', 'YE', 'y', 'Y', 'Yes', 'YEs', 'Yeap'])
 no = set(['no', 'NO', 'n', 'nO', 'No'])
 testtype = set (['H', 'HSPT', 'HSP', 'h', 'hsp', 'hspt', 'TACHS', 'tachs', 't', 'TACH', 
 'COOP', 'coop', 'co-op' 'COO', 'CHSEE', 'CHSE', 'chsee'])
